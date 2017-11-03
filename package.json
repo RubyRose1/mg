@@ -1,0 +1,10 @@
+{
+  "name": "MyGento",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-minify-css": "^1.2.4"
+  }
+}
